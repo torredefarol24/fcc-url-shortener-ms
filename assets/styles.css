@@ -1,0 +1,37 @@
+.main-body {
+    font-family: 'Work Sans';
+    padding: 30px;
+}
+
+.mt36 {
+    margin-top: 36px;
+}
+
+.my-name {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 16px
+}
+
+.url-input {
+    display: block;
+    font-size: 24px;
+    margin-top: 16px;
+    font-family: 'Work Sans';
+    min-width: 40%;
+    padding: 12px 24px;
+}
+
+.submit-btn {
+    margin-top: 12px;
+    display: block;
+    min-width: 64px;
+    min-height: 32px;
+    background-color: #008080;
+    font-family: 'Work Sans';
+    font-size: 24px;
+    border: 0px;
+    padding: 12px 24px;
+    color: white;
+    cursor: pointer;
+}
